@@ -1,7 +1,7 @@
-123556854|rojo|125
+123556854|rojo|12.8
 000|rosalia|0
 4585887|muñecodeiker|3
 7588547|celular|100
-1010101|chamarra de carlos|3000
+1010101|carlos|3000
 1234567|gatos de edwin|1500
 1526478|buerrito de omar|20
